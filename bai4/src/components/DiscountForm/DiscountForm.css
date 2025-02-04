@@ -1,0 +1,71 @@
+.title {
+    display: flex;
+    align-items: center;
+    font-size: medium;
+    color: #000;
+    font-weight: 600;
+    margin-bottom: 10px;
+}
+.title__icon__wrap {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid #C9CACC;
+    border-radius: 4px;
+    margin-right: 8px;
+    cursor: pointer;
+}
+.add__btn__wrap {
+    padding: 10px 30px;
+}
+
+.plus__icon__wrap {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+    background-color: #ED4D2D;
+    border-radius: 4px;
+    font-size: 16px;
+    font-weight: 600;
+    color: #FFF;
+    cursor: pointer;
+    user-select: none;
+}
+.option {
+    position: absolute;
+    top: 0px;
+    left: -15px;
+    background-color: #ED4D2D;
+    border-bottom-right-radius: 10px;
+    padding: 4px 30px 4px 4px;
+    font-weight: 600;
+    color: white;
+}
+.preview__header__center {
+    font-weight: 600;
+    font-size: 18;
+    text-align: center;
+    color: #000;
+    margin-top: 12px;
+}
+.preview__header__left {
+    font-weight: 600;
+    font-size: 16;
+    color: #000;
+    margin-top: 8px;
+    margin-bottom: 12px;
+}
+
+.custom-table table {
+    width: 100%;
+  }
+  
+.custom-table th,
+.custom-table td {
+    text-align: right !important;
+}
+.Polaris-DataTable__Navigation{
+    display: none !important;
+}
+  
