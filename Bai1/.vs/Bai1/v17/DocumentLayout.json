@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\FPT_Semesters\\Semester09\\Fullstack_Developer_Test\\Bai1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DEFB5B16-791E-438A-99C7-4765F9A2E0AD}|Bai1\\Bai1.csproj|e:\\fpt_semesters\\semester09\\fullstack_developer_test\\bai1\\bai1\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEFB5B16-791E-438A-99C7-4765F9A2E0AD}|Bai1\\Bai1.csproj|solutionrelative:bai1\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEFB5B16-791E-438A-99C7-4765F9A2E0AD}|Bai1\\Bai1.csproj|e:\\fpt_semesters\\semester09\\fullstack_developer_test\\bai1\\bai1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEFB5B16-791E-438A-99C7-4765F9A2E0AD}|Bai1\\Bai1.csproj|solutionrelative:bai1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEFB5B16-791E-438A-99C7-4765F9A2E0AD}|Bai1\\Bai1.csproj|e:\\fpt_semesters\\semester09\\fullstack_developer_test\\bai1\\bai1\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEFB5B16-791E-438A-99C7-4765F9A2E0AD}|Bai1\\Bai1.csproj|solutionrelative:bai1\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEFB5B16-791E-438A-99C7-4765F9A2E0AD}|Bai1\\Bai1.csproj|e:\\fpt_semesters\\semester09\\fullstack_developer_test\\bai1\\bai1\\repository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEFB5B16-791E-438A-99C7-4765F9A2E0AD}|Bai1\\Bai1.csproj|solutionrelative:bai1\\repository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEFB5B16-791E-438A-99C7-4765F9A2E0AD}|Bai1\\Bai1.csproj|e:\\fpt_semesters\\semester09\\fullstack_developer_test\\bai1\\bai1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DEFB5B16-791E-438A-99C7-4765F9A2E0AD}|Bai1\\Bai1.csproj|solutionrelative:bai1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "E:\\FPT_Semesters\\Semester09\\Fullstack_Developer_Test\\Bai1\\Bai1\\Repository\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "Bai1\\Repository\\ProductRepository.cs",
+              "ToolTip": "E:\\FPT_Semesters\\Semester09\\Fullstack_Developer_Test\\Bai1\\Bai1\\Repository\\ProductRepository.cs",
+              "RelativeToolTip": "Bai1\\Repository\\ProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T02:11:43.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "E:\\FPT_Semesters\\Semester09\\Fullstack_Developer_Test\\Bai1\\Bai1\\Repository\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "Bai1\\Repository\\IProductRepository.cs",
+              "ToolTip": "E:\\FPT_Semesters\\Semester09\\Fullstack_Developer_Test\\Bai1\\Bai1\\Repository\\IProductRepository.cs",
+              "RelativeToolTip": "Bai1\\Repository\\IProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T02:11:13.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "E:\\FPT_Semesters\\Semester09\\Fullstack_Developer_Test\\Bai1\\Bai1\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Bai1\\Controllers\\ProductController.cs",
+              "ToolTip": "E:\\FPT_Semesters\\Semester09\\Fullstack_Developer_Test\\Bai1\\Bai1\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Bai1\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T02:09:50.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\FPT_Semesters\\Semester09\\Fullstack_Developer_Test\\Bai1\\Bai1\\Program.cs",
+              "RelativeDocumentMoniker": "Bai1\\Program.cs",
+              "ToolTip": "E:\\FPT_Semesters\\Semester09\\Fullstack_Developer_Test\\Bai1\\Bai1\\Program.cs",
+              "RelativeToolTip": "Bai1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T02:03:42.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\FPT_Semesters\\Semester09\\Fullstack_Developer_Test\\Bai1\\Bai1\\appsettings.json",
+              "RelativeDocumentMoniker": "Bai1\\appsettings.json",
+              "ToolTip": "E:\\FPT_Semesters\\Semester09\\Fullstack_Developer_Test\\Bai1\\Bai1\\appsettings.json",
+              "RelativeToolTip": "Bai1\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-04T02:02:50.651Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
